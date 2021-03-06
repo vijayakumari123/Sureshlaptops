@@ -1,0 +1,7 @@
+git commit -m "developer developed code for 1"
+
+git init
+
+git ls
+
+git add
